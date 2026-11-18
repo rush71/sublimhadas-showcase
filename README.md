@@ -7,11 +7,13 @@ Tienda online de **remeras, tote bags y tazas personalizadas**, hecha en Resiste
 ![Sublimhadas en escritorio](images/escritorio-inicio.jpg)
 
 ## Qué incluye
+- Portada con campaña de temporada (Verano 2027, estampado DTF), productos favoritos y colecciones de remeras, tote bags y tazas.
 - Catálogo por categorías y buscador.
 - Cuenta de usuario (registro e inicio de sesión) y carrito.
 - Pago con **Mercado Pago**, envíos y cuotas sin interés.
-- Contenido para SEO: guías y artículos de blog.
-- Contacto directo por WhatsApp.
+- Beneficios a la vista: envío gratis desde $ 95.000, entrega express en Resistencia y cuotas sin interés.
+- Contenido para SEO: guías y artículos de blog (DTF, cuidado de prendas, regalos personalizados).
+- Contacto directo por WhatsApp y redes sociales (Instagram, Facebook, TikTok).
 
 <table>
   <tr>
@@ -21,6 +23,9 @@ Tienda online de **remeras, tote bags y tazas personalizadas**, hecha en Resiste
   <tr>
     <td><img src="images/escritorio-colecciones.jpg" alt="Colecciones"></td>
     <td align="center"><img src="images/movil-inicio.jpg" alt="Versión móvil" width="220"> <img src="images/movil-propuesta-y-beneficios.jpg" alt="Versión móvil, beneficios" width="220"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="images/escritorio-editorial.jpg" alt="Sección editorial con remeras, tazas y tote bags"></td>
   </tr>
 </table>
 
